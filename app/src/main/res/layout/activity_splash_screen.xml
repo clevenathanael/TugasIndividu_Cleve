@@ -27,6 +27,6 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:textStyle="bold"
-        android:text="www.iqbalsyaputra.com"/>
+        android:text="www.alandarma.com"/>
 
 </RelativeLayout>
