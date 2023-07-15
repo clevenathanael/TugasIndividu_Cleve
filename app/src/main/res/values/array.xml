@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sample_provinsi">
+        <item>palembang</item>
+        <item>bogor</item>
+        <item>depok</item>
+        <item>lampung</item>
+    </string-array>
+</resources>
