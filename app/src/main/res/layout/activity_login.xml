@@ -20,7 +20,7 @@
         android:layout_height="150sp"
         android:layout_gravity="center_horizontal"
         android:layout_marginBottom="30dp"
-        android:src="@drawable/logo_a"/>
+        android:src="@drawable/logo"/>
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
